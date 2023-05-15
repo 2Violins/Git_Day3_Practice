@@ -1,0 +1,3 @@
+tests for tc04
+
+texts for tc04
